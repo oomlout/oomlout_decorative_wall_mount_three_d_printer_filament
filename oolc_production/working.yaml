@@ -2,5 +2,5 @@ project_id: oomlout_decorative_wall_mount_three_d_printer_filament
 project_name: Oomlout Decorative Wall Mount Three D Printer Filament
 project_repo: https://github.com/oomlout/oomlout_decorative_wall_mount_three_d_printer_filament
 production_format:
-  oolc_1:
+  oolc_1_oomlout_decorative_wall_mount_three_d_printer_filament_jig:
     file_location: source_files/oolc_1.cdr
